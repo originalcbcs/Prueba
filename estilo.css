@@ -1,0 +1,21 @@
+body{
+    background: pink;
+    color: brown;
+    text-align: center;
+}
+
+footer{
+    background: brown;
+    color: white;
+    padding: 30px;
+    text-align: left;
+}
+
+#tabla{
+    padding: 0px 10px;
+    
+}
+
+#Final{
+    display: flex;
+}
